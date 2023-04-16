@@ -1,2 +1,2 @@
 # SnackSquad
-An Snack Ordering App
+An Snack Ordering Application
